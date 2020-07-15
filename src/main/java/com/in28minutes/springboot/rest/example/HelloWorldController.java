@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@GetMapping("/")
 	public  String printInBrowser() {
-		return "Hello World from Bridgelabz on 15th of July";
+		return "Hello World from Bridgelabz to the engg team on 15th of July";
 	}
 	
 }
